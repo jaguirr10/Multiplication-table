@@ -1,2 +1,2 @@
 # Multiplication-table
- Multiplication table written jQuery.
+ Multiplication table written in jQuery.
